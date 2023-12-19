@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gavin-Profile/static/css/main.82bfbfd3.css",
+    "main.js": "/Gavin-Profile/static/js/main.2ee22cc9.js",
+    "index.html": "/Gavin-Profile/index.html",
+    "main.82bfbfd3.css.map": "/Gavin-Profile/static/css/main.82bfbfd3.css.map",
+    "main.2ee22cc9.js.map": "/Gavin-Profile/static/js/main.2ee22cc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82bfbfd3.css",
+    "static/js/main.2ee22cc9.js"
+  ]
+}
