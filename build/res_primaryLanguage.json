@@ -1,19 +1,19 @@
 {
     "basic_info": {
-      "description_header": "Hallo",
-      "description": "👋 Ich bin Gavin Correia. Energischer Doktorand, der einen Master-Abschluss an der Otto-von-Guericke-Universität anstrebt, mit 2 Jahren praktischer Erfahrung im Data Engineering. Versiert in SQL, Python, Java und beherrscht Cloud (AWS), AI/ML und Webentwicklung mit React und JavaScript. Hat ein Projekt unabhängig erfolgreich geleitet und dabei starke Projektmanagement- und Kundeninteraktionsfähigkeiten unter Beweis gestellt. Hervorragend in ETL-Prozessen und sorgt für effiziente Daten-Workflows. Leidenschaftlich für Innovation und kontinuierliches Lernen, bestrebt, Fachwissen zu nutzen, um wirkungsvolle Projekte in der Datentechnik und darüber hinaus voranzutreiben.",
+      "description_header": "Hi",
+      "description": "👋 I'm Gavin Correia. Data Engineer in the financial industry with 2+ years experience from where I have expertise in ETL, Python scripting, and Informatica. I am Pursuing a master's in Data and Knowledge Engineering, with skills in machine learning, AWS, and cybersecurity. ",
       "section_name": {
-        "about": "Über mich",
-        "projects": "Projekte",
-        "skills": "Fähigkeiten",
-        "experience": "Erfahrung"
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
       }
     },
     "projects": [
       {
         "title": "Use of AI for cyber attack prevention",
         "startDate": "2020",
-        "description": "Entwickelte ein Intrusion-Detection-System, das maschinelle Lernalgorithmen nutzt, um Phishing-Angriffe und SQL-Injection auf einem Server zu erkennen und zu verhindern.",
+        "description": "Developed an intrusion detection system that uses machine learning algorithms to detect and prevent Phishing attacks and SQL injection on a server.",
         "images": [
           "images/portfolio/animal-shelter/p1.png"
         ],
@@ -28,7 +28,7 @@
       {
         "title": "Emotion Recognition via Speech ",
         "startDate": "2019 -2020",
-        "description": "Web-App, die Emotionen aus der Sprache eines Benutzers erkennt. Das ML-Modell im Backend-Flask-Server erkennt das Geschlecht und den emotionalen Zustand des Benutzers. Das Modell kann 7 Emotionen erkennen, darunter Traurigkeit, Glück, Neutralität, Wut, Angst, Aufregung usw.",
+        "description": "Web app that detects emotions from a user's speech. The ML model in the backend Flask server detects the user's gender and emotional state. The model can recognize 7 emotions including sadness, happiness, neutrality, anger, fear, excitement, etc.",
         "images": [
           "images/portfolio/photography/p1.png"
         ],
@@ -41,10 +41,10 @@
         ]
       },
       {
-        "title": "Hotel Website hosting using AWS ",
+        "title": " Hotel Website hosting using AWS ",
         "startDate": "2021",
-        "note": "Hinweis: Ich habe die Instanz geschlossen, daher ist die Website nicht mehr aktiv",
-        "description": "Hostete eine Website auf AWS mit kostenlosen Instanzen wie AWS S3, AWS DynamoDB, AWS API Gateway und AWS Lambda.",
+        "note": "Note: I have closed the instance thus the website is no longer active",
+        "description" :" Hosted a website on AWS using free instances like :AWS S3, AWS DynamoDB, AWS API Gateway, AWS Lambda",
         "images": [
           "images/portfolio/adventure/p1.jpg"
         ],
@@ -66,6 +66,7 @@
       }
     ],
     "experience": [
+      
       {
         "company": "BNP Paribas",
         "title": "Data Engineer",
